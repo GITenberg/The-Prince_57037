@@ -1,0 +1,25 @@
+_repo: The-Prince_57037
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ricci, Luigi
+    gutenberg_agent_id: '49159'
+    url: http://www.gutenberg.org/2009/agents/49159
+creator:
+  author:
+    agent_name: Machiavelli, Nicoló
+    gutenberg_agent_id: '49158'
+    url: http://www.gutenberg.org/2009/agents/49158
+description: ''
+gutenberg_issued: '2018-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Prince
+url: http://www.gutenberg.org/ebooks/57037
